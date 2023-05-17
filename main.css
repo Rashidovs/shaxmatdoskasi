@@ -1,0 +1,325 @@
+.doska {
+   width: 560px;
+   height: 560px;
+   border: 2px solid black;
+   
+}
+.oq1 {
+   width: 70px;
+   height: 70px;
+
+}
+.birinchi {
+   display: flex;
+}
+.qora1 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq2 {
+   width: 70px;
+      height: 70px;
+   
+}
+.qora2 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq3 {
+   width: 70px;
+      height: 70px;
+   
+}
+.qora3 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq4 {
+   width: 70px;
+      height: 70px;
+
+}
+.qora4 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.ikkinchi {
+   display: flex;
+}
+.qora21 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq21 {
+   width: 70px;
+      height: 70px;
+      
+}
+.qora22 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq22 {
+   width: 70px;
+      height: 70px;
+      
+}
+.qora23 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq23 {
+   width: 70px;
+      height: 70px;
+      
+}
+.qora24 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+   }
+.oq24 {
+   width: 70px;
+      height: 70px;
+}
+.oq31 {
+   width: 70px;
+      height: 70px;
+}
+.qora31 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.uchinchi {
+   display: flex;
+}
+.oq32 {
+   width: 70px;
+      height: 70px;
+}
+.qora32 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq33 {
+   width: 70px;
+      height: 70px;
+}
+.qora33 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq34 {
+   width: 70px;
+      height: 70px;
+}
+.qora34 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.turtinchi {
+   display: flex;
+}
+.qora41 {
+      width: 70px;
+         height: 70px;
+         background-color: black;
+}
+.oq41 {
+   width: 70px;
+      height: 70px;
+}
+.qora42 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq42 {
+   width: 70px;
+      height: 70px;
+}
+.qora43 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq43 {
+   width: 70px;
+      height: 70px;
+}
+.qora44 {
+      width: 70px;
+         height: 70px;
+         background-color: black;
+}
+.oq44 {
+   width: 70px;
+      height: 70px;
+}
+.beshinchi {
+   display: flex;
+}
+.oq51 {
+   width: 70px;
+      height: 70px;
+}
+.qora51 {
+      width: 70px;
+         height: 70px;
+         background-color: black;
+}
+.oq52 {
+   width: 70px;
+      height: 70px;
+}
+.qora52 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq53 {
+   width: 70px;
+      height: 70px;
+}
+.qora53 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq54 {
+   width: 70px;
+      height: 70px;
+}
+.qora54 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oltinchi {
+   display: flex;
+}
+.qora61{
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq61 {
+   width: 70px;
+      height: 70px;
+}
+.qora62 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq62 {
+   width: 70px;
+      height: 70px;
+}
+.qora63 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq63 {
+   width: 70px;
+      height: 70px;
+}
+.qora64 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq64 {
+width: 70px;
+   height: 70px;
+}
+.yettinchi {
+   display: flex;
+}
+.oq71 {
+   width: 70px;
+      height: 70px;
+}
+.qora71 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq72 {
+   width: 70px;
+      height: 70px;
+}
+.qora72 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq73 {
+   width: 70px;
+      height: 70px;
+}
+.qora73 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq74 {
+   width: 70px;
+      height: 70px;
+}
+.qora74 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.sakkizinchi {
+   display: flex;
+}
+.qora81 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq81 {
+   width: 70px;
+      height: 70px;
+}
+.qora82 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq82 {
+   width: 70px;
+      height: 70px;
+}
+.qora83 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq83 {
+   width: 70px;
+      height: 70px;
+}
+.qora84 {
+   width: 70px;
+      height: 70px;
+      background-color: black;
+}
+.oq84 {
+   width: 70px;
+      height: 70px;
+}
